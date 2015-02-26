@@ -1,2 +1,4 @@
 # morseCode-CSIPH-WHS-
-A project made in CSIPH at WHS (2015). It utilizes the Raspberry PI and its GPIO pins to translate Morse code from keyboard input out through LED lights. The program is written in python.
+Projects made in CSIPH at WHS (2015). Many of the projects are coded for the Raspberry PI and its GPIO PINS and the FINCH. Programs are either written in Python or Java.
+
+Tanner G. and Tyler K.
